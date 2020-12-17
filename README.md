@@ -1,7 +1,7 @@
 # open-docviewer-tabs
 Chrome extension that opens Quercus DocViewer modules in new tabs.
 
-<sub>(note: this is an unofficial extension that is still a WIP!)
+<sub>Note: This is an unofficial extension that is still a WIP, and as such I would personally suggest disabling the extension on quizzes in case of potential errors.
 
 # Installation
 1. Download the ZIP and unzip the folder
