@@ -1,6 +1,7 @@
 # open-docviewer-tabs
-Chrome extension that opens Quercus DocViewer modules in new tabs.
 <img src=assets/icon.png align="right">
+
+Chrome extension that opens Quercus DocViewer modules in new tabs.
 
 The green badge on the `Open DocViewer Tabs` icon while appear when any Quercus module is being viewed, indicating the icon can be clicked to open the module file in a new tab.
 
