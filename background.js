@@ -7,8 +7,16 @@ chrome.browserAction.onClicked.addListener(function(tab) { // User clicks browse
 
 chrome.runtime.onMessage.addListener(
     function(request, sender, sendResponse) {
-        if(request.message === "open_new_tab") {
-            chrome.tabs.create({"url": request.url})
+        if (request.message === "open_new_tab") {
+            chrome.tabs.create({url: request.url})
+        } else if (request.message === "icon_activity") {
+            if (request.status) {
+                chrome.tabs.query({active:true, windowType:"normal", currentWindow: true},function(d){
+                    var tabId = d[0].id;
+                    chrome.browserAction.setBadgeBackgroundColor({color: [0, 200, 0, 10]}); // Green
+                    chrome.browserAction.setBadgeText({text: " ", tabId: tabId})
+                })
+            }
         }
     }
 )
