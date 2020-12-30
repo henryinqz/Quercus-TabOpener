@@ -7,9 +7,9 @@ The green badge  on the `Open DocViewer Tabs` icon appears when any Quercus modu
 
 <img src=https://i.imgur.com/k7n9WzK.png>
 
-<i>Note: This is an unofficial extension. It is suggested that you disable the extension before taking any Quercus quizzes to prevent potential conflicts</i>
-
 <img src=https://i.imgur.com/2hnTz5N.gif>
+
+<i>Note: This is an unofficial extension. It is suggested that you disable the extension before taking any Quercus quizzes to prevent potential conflicts</i>
 
 # Installation
 1. Download the ZIP and unzip the folder
