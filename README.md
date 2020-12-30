@@ -3,8 +3,9 @@
 
 Chrome extension that opens Quercus DocViewer modules in new tabs.
 
-<img src=https://i.imgur.com/k7n9WzK.png>
 The green badge  on the `Open DocViewer Tabs` icon appears when any Quercus module is being viewed, indicating the icon can be clicked to open the module file in a new tab. 
+
+<img src=https://i.imgur.com/k7n9WzK.png>
 
 <i>Note: This is an unofficial extension. It is suggested that you disable the extension before taking any Quercus quizzes to prevent potential conflicts</i>
 
