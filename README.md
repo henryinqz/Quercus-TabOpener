@@ -11,6 +11,8 @@ The green badge  on the `Open DocViewer Tabs` icon appears when any Quercus modu
 
 <img src=https://i.imgur.com/2hnTz5N.gif>
 
+<img src=https://i.imgur.com/86ejPWm.gif>
+
 # Installation
 1. Download the ZIP and unzip the folder
 2. Go to `chrome://extensions`
