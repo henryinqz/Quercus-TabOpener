@@ -1,7 +1,7 @@
 {
 	"name": "Open DocViewer Tabs",
-	"version": "1.0",
-	"description": "Opens DocViewer modules on Quercus (Canvas for UofT) in a new tab.",
+	"version": "0.1",
+	"description": "Opens Quercus DocViewer modules in new tabs.",
 	"manifest_version": 2,
 	"content_scripts": [
 		{
