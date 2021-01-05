@@ -1,14 +1,9 @@
 {
 	"name": "Open DocViewer Tabs",
-	"version": "1.0",
+	"version": "2.0",
 	"description": "Opens Quercus DocViewer modules in new tabs.",
 	"manifest_version": 2,
-	"content_scripts": [
-		{
-			"matches": ["*://q.utoronto.ca/*"],
-			"js": ["content.js"]
-		}
-	],
+	"permissions": ["contextMenus"],
 	"browser_action": {
 		"default_icon": "/assets/icon.png"
 	},
