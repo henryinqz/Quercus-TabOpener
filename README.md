@@ -1,5 +1,5 @@
 # open-docviewer-tabs
-<img src=assets/icon.png align=right>
+<img src=assets/icon128.png align=right>
 
 Chrome extension that opens Quercus DocViewer modules in new tabs.
 
