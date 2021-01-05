@@ -1,6 +1,6 @@
 {
 	"name": "Open DocViewer Tabs",
-	"version": "2.0",
+	"version": "2.0.1",
 	"description": "Opens Quercus DocViewer modules in new tabs.",
 	"manifest_version": 2,
 	"permissions": ["contextMenus"],
@@ -17,7 +17,6 @@
 	   "128": "/assets/icon128.png"
 	},
 	"background": {
-		"scripts": ["background.js"],
-		"persistent": false
+		"scripts": ["background.js"]
 	}
 }
