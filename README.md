@@ -9,5 +9,6 @@ Right-click any Quercus module (or embedded in-text Quercus document) for an `Op
 
 <i>Note: This is an unofficial extension. It is suggested that you disable the extension before any Quercus quizzes to prevent any conflicts</i>
 
+## Screenshots
 <img src=https://i.imgur.com/Ils0evz.png>
 <img src=https://i.imgur.com/XLeFW7O.png>
