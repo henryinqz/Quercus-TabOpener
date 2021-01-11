@@ -1,4 +1,4 @@
-# Quercus-TabOpener
+# Quercus Tab Opener
 <img src=assets/icon128.png align=right>
 
 Chrome extension that opens Quercus modules in new tabs.
