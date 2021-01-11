@@ -1,9 +1,9 @@
 # open-docviewer-tabs
 <img src=assets/icon128.png align=right>
 
-Chrome extension that opens Quercus DocViewer modules in new tabs.
+Chrome extension that opens Quercus modules in new tabs.
 
-Right-click any Quercus module (or embedded in-text Quercus document) for an `Open module in new tab` option to appear.
+Right-click the frame of any Quercus module and `Open module in new tab` will appear in the context menu.
 
 <img src=https://i.imgur.com/tc5Zw3D.png>
 
