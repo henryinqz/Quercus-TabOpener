@@ -3,7 +3,7 @@
 
 Chrome extension that opens Quercus modules in new tabs.
 
-Right-click the frame of any Quercus module and `Open module in new tab` will appear in the context menu.
+Right-click the frame of any Quercus module and an option to `Open module in new tab` will appear in the context menu.
 
 <img src=https://i.imgur.com/tc5Zw3D.png>
 
