@@ -7,7 +7,7 @@ chrome.contextMenus.create({
 });
 
 chrome.contextMenus.onClicked.addListener((info, tab) => {
-    if (info["frameUrl"] !== undefined) {
+    if (info["frameUrl"] !== undefined && info["frameUrl"] !== "about:blank") {
         chrome.tabs.create({url: info["frameUrl"]})
     }
 });
