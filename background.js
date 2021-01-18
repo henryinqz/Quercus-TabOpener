@@ -3,6 +3,7 @@ chrome.contextMenus.create({
     title: "Open module in new tab",
     visible: true,
     contexts: ["frame"],
+    documentUrlPatterns: ["*://canvadocs-yul-prod.inscloudgate.net/*"],
     targetUrlPatterns: ["*://q.utoronto.ca/*"]
 });
 
