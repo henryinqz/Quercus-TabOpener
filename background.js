@@ -3,7 +3,7 @@ chrome.contextMenus.create({
     title: "Open module in new tab",
     visible: true,
     contexts: ["frame"],
-    documentUrlPatterns: ["*://canvadocs-yul-prod.inscloudgate.net/*"],
+    documentUrlPatterns: ["*://canvadocs-yul-prod.inscloudgate.net/*", "*://play.library.utoronto.ca/*"],
     targetUrlPatterns: ["*://q.utoronto.ca/*"]
 });
 
