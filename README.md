@@ -7,7 +7,7 @@ Right-click the frame of any Quercus module and an option to `Open module in new
 
 <img src=https://i.imgur.com/tc5Zw3D.png>
 
-<i>Note: This is an unofficial extension & not affiliated with the University of Toronto. It is suggested that you disable the extension before any Quercus quizzes to prevent any conflicts</i>
+<i>Note: This is an unofficial extension & not affiliated with the University of Toronto. Consider disabling the extension before any Quercus quizzes to prevent potential conflicts</i>
 
 ## Screenshots
 <img src=https://i.imgur.com/Ils0evz.png>
